@@ -10,4 +10,4 @@ from random import randint
 
 x = randint(1, 10)
 
-print("RRandom number picked is ", x)
+print("Random number picked is ", x)
